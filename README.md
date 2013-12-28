@@ -1,4 +1,0 @@
-bordodeBank
-===========
-
-TheBordodeCoin
